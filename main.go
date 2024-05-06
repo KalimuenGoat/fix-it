@@ -12,7 +12,7 @@ func main() {
 		fmt.Fprintf(w, "Hello, World!")
 	})
 
-<<<<<<< HEAD
+<<<<<<< HEAD 
 	http.HandleFunc("/register", func(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprintf(w, "todo")
 =======
